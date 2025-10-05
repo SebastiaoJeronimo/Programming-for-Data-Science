@@ -7,3 +7,5 @@ This repo contains all the programming for Data Science material from NOVA IMS
 [GUIDE TO RUN JUPYTER NOTEBOOKS AND PYTHON WITH VS CODE](https://youtu.be/0Jw8seqai18?si=Msq_FLxxw9Dl1FE8)  
   
 ---
+
+[1st project - Yahtzee Game](https://github.com/SebastiaoJeronimo/Yahtzee-game-python) 
