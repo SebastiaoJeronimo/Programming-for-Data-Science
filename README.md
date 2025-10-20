@@ -8,4 +8,5 @@ This repo contains all the programming for Data Science material from NOVA IMS
   
 ---
 
-[1st project - Yahtzee Game](https://github.com/SebastiaoJeronimo/Yahtzee-game-python) 
+[1st project - Yahtzee Game](https://github.com/SebastiaoJeronimo/Yahtzee-game-python)   
+[2nd project - Dataframe assigment](https://github.com/SebastiaoJeronimo/Dataframes-Programming-Assigment)
