@@ -6,7 +6,7 @@ This repo contains all the programming for Data Science material from NOVA IMS
   
 [GUIDE TO RUN JUPYTER NOTEBOOKS AND PYTHON WITH VS CODE](https://youtu.be/0Jw8seqai18?si=Msq_FLxxw9Dl1FE8)    
 
-[HOW TO VIRTUALIZE PYTHON ENVS IN NOTEBOOKS](https://github.com/SebastiaoJeronimo/How-to-create-virtual-envs-in-python-with-conda-and-python-uv)  
+[HOW TO VIRTUALIZE PYTHON ENVS](https://github.com/SebastiaoJeronimo/How-to-create-virtual-envs-in-python-with-conda-and-python-uv)  
 
 ---
 
